@@ -1,0 +1,20 @@
+Q * = k.A  (Delta T / L)
+
+= 0,78*20 (25/0,4)
+
+= 975 W
+
+
+Q* = Delta T / R wall  
+
+R wall = L/ k.A 
+
+= 0,4/ ( 0,78*20)
+
+=0,0256
+
+Q*= 25/0,0256
+
+= 975,6 W
+
+Difference is sourced by the round up numbers . 
